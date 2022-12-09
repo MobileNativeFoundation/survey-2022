@@ -20,7 +20,6 @@ In the open-ended comment section where we asked potential questions you all wis
 
 Lastly, when digging deeper into the infrastructure layer of mobile, nearly 85% of all responses were from those working at companies with less than 50 mobile platform/infrastructure engineers. Perhaps this explains why ~20% of respondents didn’t know the cold start time for their app, and another ~50% have a cold start time longer than 1s.
 
-These are just an initial set of highlights from this survey’s results, the raw data of which will be shared openly via mobilenativefoundation.org. We welcome further analysis and will include it alongside the results if shared – so please share your thoughts with us! Furthermore, this is just the first time we have run this survey, but we aim to run this yearly, so stay tuned for the next iteration!
+These are just an initial set of highlights from this survey’s results, you can see all results at [this link](https://www.surveymonkey.com/results/SM-ydI0WnuhE0HHfe1dLAdUOg_3D_3D/). We welcome further analysis and will include it alongside the results if shared – so please share your thoughts with us! Furthermore, this is just the first time we have run this survey, but we aim to run this yearly, so stay tuned for the next iteration!
 
-You can see all results at [this link](https://www.surveymonkey.com/results/SM-ydI0WnuhE0HHfe1dLAdUOg_3D_3D/)!
 Also, there are [PDFs of these results](AllData.pdf), along with a slice for [Android](Android_only.pdf), and one for [iOS](iOS_only.pdf).
