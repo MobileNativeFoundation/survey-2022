@@ -4,13 +4,13 @@ We had over 500 responses, with a roughly even split between iOS and Android: ro
 
 As seen below responses were from individuals working at companies with less than 50 mobile engineers, contrasted with over 80% of responses coming from companies with 100 total employees or more. This shows, perhaps unsurprisingly, that mobile engineers typically form a relatively small percentage of a company’s overall headcount.
 
-[Figure 1](Figure1_MobileEngineers.png)
+![Figure 1](Figure1_MobileEngineers.png)
 
 Figure 1: Number of Mobile engineers
 
 We received responses from around the world, which aligns with the remote work preferences of respondents: over 65% are either fully remote or remote and occasionally go in for specific events. On the other hand, only 7% of responses were from people going into an office 5 days a week. It will be interesting to observe how this shifts over time, and a bummer we didn’t run this survey before COVID to see the drastic shift that must’ve brought to these results!
 
-[Figure 2](Figure2_Geo.png)
+![Figure 2](Figure2_Geo.png)
 
 Figure 2: Responses breakdown 
 
