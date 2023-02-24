@@ -23,3 +23,8 @@ Lastly, when digging deeper into the infrastructure layer of mobile, nearly 85% 
 These are just an initial set of highlights from this survey’s results, you can see all results at [this link](https://www.surveymonkey.com/results/SM-ydI0WnuhE0HHfe1dLAdUOg_3D_3D/). We welcome further analysis and will include it alongside the results if shared – so please share your thoughts with us! Furthermore, this is just the first time we have run this survey, but we aim to run this yearly, so stay tuned for the next iteration!
 
 Also, there are [PDFs of these results](AllData.pdf), along with a slice for [Android](Android_only.pdf), and one for [iOS](iOS_only.pdf).
+
+The raw data slices for Android, iOS, and everyone else can be found here:
+iOS: https://www.surveymonkey.com/results/SM-jh55gGFThXhzRccTQlemjA_3D_3D/
+Android: https://www.surveymonkey.com/results/SM-n_2BwDN324lVWSDWSbyaHZaw_3D_3D/
+Other: https://www.surveymonkey.com/results/SM-Pgy2wjVT_2BstmEqYiCYJSFA_3D_3D/
